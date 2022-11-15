@@ -4,6 +4,7 @@ public class ProyectoFuturo {
     public static void main(String[] args) {
         int valor1 = Integer.parseInt(args[1]);
         int valor2 = Integer.parseInt(args[2]);
+        //Mi nombre es francisco javier riquelme sanchez
         System.out.println("Estudiante " + args[0] + " : ");
         System.out.println(veredicto(valor1,valor2));
     }
